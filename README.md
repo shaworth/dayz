@@ -10,6 +10,6 @@ To replicate my build process:
 
  * create a `dayz` directory in the `Documents` directory of the logged in user.
  * Copy the contents of the `template1` directory into the newly created `dayz` directory.  
- * Copy the three batch files in the `dayz` directory.
+ * Copy the batch files in the `dayz` directory.
  * Execute `install_melkart.bat`
  * Execute `start_melkart.bat`
