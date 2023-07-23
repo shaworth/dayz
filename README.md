@@ -1,11 +1,9 @@
 # dayz
 Troubleshooting Dayz server issues
 
-The batch files are located in the directory `%UserProfile%\Documents\dayz`
-`template1` is a subdirectory of `%UserProfile%\Documents\dayz`
 The `logs` directory is from the dayz server `profile` directory
 
-My steam username has been redacted, replace it with your own.
+My steam username has been redacted from the batch files, replace it with your own.
 
 # Using this repo
 To replicate my build process:
