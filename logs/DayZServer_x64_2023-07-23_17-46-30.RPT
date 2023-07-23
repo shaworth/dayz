@@ -1,0 +1,18 @@
+
+
+=====================================================================
+== C:\Users\shaworth\Documents\dayz\server1\DayZServer_x64.exe
+== DayZServer_x64.exe --dologs -netlog -freezecheck -adminLog -profiles=melkartprofile -config=serverDZ.cfg -port=2302 -cpuCount=6 -mod="@Melkart_beta"
+=====================================================================
+Exe timestamp: 2023/07/23 17:44:12
+Current time:  2023/07/23 17:46:33
+
+Version 1.21.156300
+17:46:33.511 [Inputs] Loading inputs default "bin/constants.xml"
+17:46:33.515 [Inputs] Loading inputs default "bin/specific.xml"
+17:46:33.517 [Inputs] Loading inputs cfg "bin/core.xml"
+17:46:33.518 !!! [Inputs] Cannot load input preset "#STR_USER", file does not exist
+17:46:33.520 [Inputs] Exporting inputs cfg "melkartprofile\Users\Survivor\Server.core.xml"
+note: Minidump has been generated into the file melkartprofile\DayZServer_x64_2023-07-23_17-46-30_2023-07-23_17-46-37.mdmp
+===ErrorMessage====>>>>>>BEG
+===ErrorMessage====>>>>>>END
